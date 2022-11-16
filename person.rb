@@ -26,12 +26,12 @@ end
 #   attr_accessor :name, :age
 # end
 
-bob = Person.new("bob", 46)
-puts bob.name 
-puts bob.age
-puts bob.increase_age(5)
-puts bob.age
+# bob = Person.new("bob", 46)
+# puts bob.name 
+# puts bob.age
+# puts bob.increase_age(5)
+# puts bob.age
 
-jill = Person.new("Jill", 34)
-puts jill.name 
-puts jill.age
+# jill = Person.new("Jill", 34)
+# puts jill.name 
+# puts jill.age
